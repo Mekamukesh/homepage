@@ -1,0 +1,26 @@
+.homebackground{
+    background-image: url("https://d2w1ef2ao9g8r9.cloudfront.net/otl-images/_1600x1064_crop_center-center_82_line/bar-food.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.homepageheading{
+    color: rgba(0, 202, 138, 0.923);
+    text-align: center;
+    font-size: 50px;
+    padding-top: 0vh;
+    text-decoration: underline;
+    font-style: italic;
+
+}
+.homepagebutton{
+    margin-left: 100vh;
+    margin-top: 10vh;
+}
+.homepageimage{
+    height: 150px;
+    width: 350px;
+    border-radius: 16px;
+    margin-left: 80vh;
+    margin-top: 10vh;
+}
